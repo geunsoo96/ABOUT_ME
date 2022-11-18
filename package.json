@@ -1,0 +1,19 @@
+{
+  "name": "about_me",
+  "version": "1.0.0",
+  "description": "이거 근수꺼임 ㅇㅋ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geunsoo96/ABOUT_ME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geunsoo96/ABOUT_ME/issues"
+  },
+  "homepage": "https://github.com/geunsoo96/ABOUT_ME#readme"
+}
