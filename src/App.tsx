@@ -1,4 +1,9 @@
+import Header from "./components/header";
+import Club from "./pages/Club";
+import News from "./pages/News";
+import Ranking from "./pages/Ranking";
+import Schedule from "./pages/Schedule";
 const App = () => {
-  return <div>근수의 화려한 포토폴리오</div>;
+  return <Header />;
 };
 export default App;
