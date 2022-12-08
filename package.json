@@ -24,7 +24,9 @@
   "keywords": [],
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.5",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
@@ -34,6 +36,7 @@
     "@babel/preset-typescript": "^7.18.6",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
+    "@types/styled-components": "^5.1.26",
     "babel-loader": "^9.1.0",
     "core-js": "^3.26.1",
     "css-loader": "^6.7.2",
