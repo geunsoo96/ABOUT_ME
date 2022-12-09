@@ -5,7 +5,7 @@ const Img = styled.div`
   padding: 0;
   background-image: url("/img/background.png");
   background-size: cover;
-  width: 100vw;
+  width: 1920px;
   height: 100vh;
 `;
 const Main = () => {
