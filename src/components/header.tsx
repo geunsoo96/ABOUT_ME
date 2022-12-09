@@ -18,9 +18,10 @@ const MenuBar = styled.div`
   & > div:nth-child(1) {
     display: flex;
     justify-content: space-around;
-    margin-top: 30px;
+    margin-top: 33px;
     & > a {
       font-size: 3rem;
+      font-family: esaBold;
     }
   }
   & > div:nth-child(2) {
@@ -31,6 +32,7 @@ const MenuBar = styled.div`
     right: 90px;
     & > a {
       font-size: 2rem;
+      font-family: esaMedium;
     }
   }
   & > div:nth-child(3) {
@@ -38,6 +40,7 @@ const MenuBar = styled.div`
     justify-content: space-around;
     & > a {
       font-size: 2rem;
+      font-family: esaMedium;
     }
   }
 `;
