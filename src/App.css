@@ -1,0 +1,12 @@
+@font-face {
+  font-family: esaLight;
+  src: url(../public/font/esamanru\ Light.ttf);
+}
+@font-face {
+  font-family: esaMedium;
+  src: url(../public/font/esamanru\ Medium.ttf);
+}
+@font-face {
+  font-family: esaBold;
+  src: url(../public/font/esamanru\ Bold.ttf);
+}
