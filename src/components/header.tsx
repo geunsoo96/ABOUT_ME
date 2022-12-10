@@ -1,7 +1,8 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 const Background = styled.div`
   width: inherit;
-  height: inherit;
+  height: 200px;
   background: linear-gradient(180deg, #000000 0%, rgba(0, 50, 4, 0) 100%);
 `;
 const MenuBar = styled.div`
@@ -60,7 +61,7 @@ const Header = () => {
         <div>
           <a href="/">경기 일정/결과</a>
           <a href="/">기록/순위</a>
-          <a href="/">구단</a>
+          <a href="/club">구단</a>
         </div>
         <div>
           <a href="/">이달의 뉴스</a>
