@@ -10,16 +10,6 @@ const ClubContainer = styled.div`
   justify-content: center;
   align-items: center;
 `;
-// const ClubBox = styled.div`
-//   width: 300px;
-//   height: 250px;
-//   margin: 50px;
-//   border: 2px solid #aaa;
-//   display: flex;
-//   flex-direction: column;
-//   justify-content: center;
-//   align-items: center;
-// `;
 const Club = () => {
   const clubImg = [
     "/img/대구FC.png",

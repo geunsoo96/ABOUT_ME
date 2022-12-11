@@ -3,11 +3,11 @@ const ClubLogo = styled.img`
   width: 200px;
   height: 200px;
 `;
-const ClubName = styled.div`
-  color: white;
-  font-family: esaLight;
-  font-size: 1.5rem;
-`;
+// const ClubName = styled.div`
+//   color: white;
+//   font-family: esaLight;
+//   font-size: 1.5rem;
+// `;
 const ClubItem = ({ data }: any) => {
   const ClubName = [
     "대구FC",
@@ -36,3 +36,4 @@ const ClubItem = ({ data }: any) => {
   );
 };
 export default ClubItem;
+// export default ClubName;
