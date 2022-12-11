@@ -60,11 +60,11 @@ const Header = () => {
         </div>
         <div>
           <a href="/">경기 일정/결과</a>
-          <a href="/">기록/순위</a>
+          <a href="/rank">기록/순위</a>
           <a href="/club">구단</a>
         </div>
         <div>
-          <a href="/">이달의 뉴스</a>
+          <a href="/news">이달의 뉴스</a>
         </div>
       </MenuBar>
     </Background>
